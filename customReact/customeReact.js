@@ -28,3 +28,4 @@ const reactElement = {
 const mainContainer = document.querySelector('#root')
 
 customRender(reactElement, mainContainer)
+//This is custom react how to make a react libaray and so on
