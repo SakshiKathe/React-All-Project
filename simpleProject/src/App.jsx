@@ -33,3 +33,6 @@ function App() {
 }
 
 export default App
+
+//This is the simple project on react
+//We can create a react project using jsx that is javascript in react
